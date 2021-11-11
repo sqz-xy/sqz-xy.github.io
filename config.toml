@@ -35,7 +35,7 @@ publishDir = "docs"
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "touka.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -49,15 +49,15 @@ publishDir = "docs"
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "_sQzxY"
+  site = "https://twitter.com/_sqzxy"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "sQzxY"
+    subtitle = "A site detailing my various projects and discoveries!"
+    owner = "sQzxY"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
