@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Terminal</title>
+    <link>https://sqz-xy.github.io/tags/about/</link>
+    <description>Recent content in About on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 15:23:34 +0000</lastBuildDate><atom:link href="https://sqz-xy.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me!</title>
+      <link>https://sqz-xy.github.io/posts/about/</link>
+      <pubDate>Thu, 11 Nov 2021 15:23:34 +0000</pubDate>
+      
+      <guid>https://sqz-xy.github.io/posts/about/</guid>
+      <description>Hello There! My name is Tom or sQzxY and I am a programmer currently studying Computer Science at the University of Hull.
+This site will be here to showcase my portfolio of projects along with any other relavent artefacts.
+My Favourite language is C# although Javascript is growing on me fast!
+Here are some ways to find/contact me:
+ here is my GitHub. here is my Twitter.  Thank you for coming along</description>
+      <content>&lt;h1 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h1&gt;
+&lt;p&gt;My name is Tom or sQzxY and I am a programmer currently studying Computer Science at the University of Hull.&lt;/p&gt;
+&lt;p&gt;This site will be here to showcase my portfolio of projects along with any other relavent artefacts.&lt;/p&gt;
+&lt;p&gt;My Favourite language is C# although Javascript is growing on me fast!&lt;/p&gt;
+&lt;p&gt;Here are some ways to find/contact me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;here is my &lt;a href=&#34;https://github.com/sqz-xy&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;here is my &lt;a href=&#34;https://twitter.com/_sqzxy&#34;&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you for coming along&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
