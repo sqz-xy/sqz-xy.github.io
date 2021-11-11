@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on Terminal</title>
+    <link>https://sqz-xy.github.io/tags/github/</link>
+    <description>Recent content in GitHub on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 15:07:05 +0000</lastBuildDate><atom:link href="https://sqz-xy.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building my Site</title>
+      <link>https://sqz-xy.github.io/posts/buildingblog/</link>
+      <pubDate>Thu, 11 Nov 2021 15:07:05 +0000</pubDate>
+      
+      <guid>https://sqz-xy.github.io/posts/buildingblog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
