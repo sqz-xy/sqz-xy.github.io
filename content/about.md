@@ -17,11 +17,11 @@ My name is Tom or sQzxY and I am a programmer currently studying Computer Scienc
 
 This site will be here to showcase my portfolio of projects along with any other relavent artefacts.
 
-My Favourite language is C# although Javascript is growing on me fast!
+My Favourite language currently is C#.
 
 Here are some ways to find/contact me:
 
 - here is my [**GitHub**](https://github.com/sqz-xy).
 - here is my [**Twitter**](https://twitter.com/_sqzxy).
 
-Thank you for coming along
+Thanks for coming along.
