@@ -14,7 +14,6 @@
       
       <guid>https://sqz-xy.github.io/tags/about/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -24,7 +23,15 @@
       
       <guid>https://sqz-xy.github.io/tags/portfolio/</guid>
       <description></description>
-      <content></content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://sqz-xy.github.io/tags/showcase/</link>
+      <pubDate>Thu, 11 Nov 2021 15:23:34 +0000</pubDate>
+      
+      <guid>https://sqz-xy.github.io/tags/showcase/</guid>
+      <description></description>
     </item>
     
   </channel>

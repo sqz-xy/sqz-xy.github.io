@@ -18,17 +18,15 @@ This site will be here to showcase my portfolio of projects along with any other
 My Favourite language currently is C#.
 Here are some ways to find/contact me:
  here is my GitHub. here is my Twitter.  Thanks for coming along.</description>
-      <content>&lt;h1 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h1&gt;
-&lt;p&gt;My name is Tom or sQzxY and I am a programmer currently studying Computer Science at the University of Hull.&lt;/p&gt;
-&lt;p&gt;This site will be here to showcase my portfolio of projects along with any other relavent artefacts.&lt;/p&gt;
-&lt;p&gt;My Favourite language currently is C#.&lt;/p&gt;
-&lt;p&gt;Here are some ways to find/contact me:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;here is my &lt;a href=&#34;https://github.com/sqz-xy&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;here is my &lt;a href=&#34;https://twitter.com/_sqzxy&#34;&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for coming along.&lt;/p&gt;
-</content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://sqz-xy.github.io/showcase/</link>
+      <pubDate>Thu, 11 Nov 2021 15:23:34 +0000</pubDate>
+      
+      <guid>https://sqz-xy.github.io/showcase/</guid>
+      <description>Hello There! Portfolio</description>
     </item>
     
   </channel>
